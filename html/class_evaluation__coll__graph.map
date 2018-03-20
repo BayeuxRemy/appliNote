@@ -1,0 +1,5 @@
+<map id="Evaluation" name="Evaluation">
+<area shape="rect" id="node2" href="$class_section.html" title="classe dont il peux exister plusieur instance dans l&#39;application " alt="" coords="16,95,85,121"/>
+<area shape="rect" id="node3" href="$class_application.html" title="classe instanciée une fois dans le main " alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node4" href="$class_matiere.html" title="classe dont il peux exister plusieur instance dans l&#39;application " alt="" coords="117,95,187,121"/>
+</map>

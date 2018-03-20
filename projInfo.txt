@@ -1,0 +1,168 @@
+mercredi 27 septembre 2017, 14:17:31 (UTC+0200)
+  29 application.h
+  20 bulletin.h
+  28 etudiant.h
+  24 evaluation.h
+  20 matiere.h
+  19 note.h
+  46 section.h
+   2 application.cpp
+  21 etudiant.cpp
+ 209 total
+Nombre de class : 7
+Nombre de méthodes : 5
+----------------------------------------------------
+mercredi 27 septembre 2017, 16:01:30 (UTC+0200)
+  33 application.h
+  24 bulletin.h
+  32 etudiant.h
+  28 evaluation.h
+  24 matiere.h
+  23 note.h
+  50 section.h
+ 113 application.cpp
+  21 etudiant.cpp
+   7 main.cpp
+  22 matiere.cpp
+  41 section.cpp
+ 418 total
+Nombre de class : 7
+Nombre de méthodes : 22
+---------------------------------------------------
+---------------------------------------------------
+lundi 2 octobre 2017, 17:49:08 (UTC+0200)
+   33 application.h
+   24 bulletin.h
+   32 etudiant.h
+   28 evaluation.h
+   24 matiere.h
+   23 note.h
+   52 section.h
+  158 application.cpp
+   54 etudiant.cpp
+    7 main.cpp
+   22 matiere.cpp
+  116 section.cpp
+  573 total
+Nombre de class : 7
+Nombre de méthodes : 34
+-----------------------------------------------------
+-----------------------------------------------------
+mardi 3 octobre 2017, 17:55:11 (UTC+0200)
+   37 application.h
+   24 bulletin.h
+   32 etudiant.h
+   28 evaluation.h
+   24 matiere.h
+   23 note.h
+   57 section.h
+  167 application.cpp
+   54 etudiant.cpp
+   33 evaluation.cpp
+    7 main.cpp
+   22 matiere.cpp
+   17 note.cpp
+  208 section.cpp
+  733 total
+Nombre de class : 7
+Nombre de méthodes : 51
+------------------------------------------------------------
+------------------------------------------------------------
+mardi 10 octobre 2017, 14:05:30 (UTC+0200)
+   37 application.h
+   24 bulletin.h
+   32 etudiant.h
+   31 evaluation.h
+   24 matiere.h
+   23 note.h
+   60 section.h
+  167 application.cpp
+   54 etudiant.cpp
+   61 evaluation.cpp
+    7 main.cpp
+   22 matiere.cpp
+   17 note.cpp
+  217 section.cpp
+  776 total
+Nombre de class : 7
+Nombre de méthodes : 53
+------------------------------------------------------------
+mardi 10 octobre 2017, 17:54:50 (UTC+0200)
+   37 application.h
+   24 bulletin.h
+   33 etudiant.h
+   33 evaluation.h
+   24 matiere.h
+   30 note.h
+   61 section.h
+  184 application.cpp
+   54 etudiant.cpp
+   93 evaluation.cpp
+    7 main.cpp
+   22 matiere.cpp
+   42 note.cpp
+  251 section.cpp
+  895 total
+Nombre de class : 7
+Nombre de méthodes : 56
+---------------------------------------------
+---------------------------------------------
+jeudi 12 octobre 2017, 11:54:01 (UTC+0200)
+   84 application.h
+   24 bulletin.h
+   85 etudiant.h
+   33 evaluation.h
+   45 matiere.h
+   30 note.h
+  144 section.h
+  184 application.cpp
+   54 etudiant.cpp
+   93 evaluation.cpp
+    7 main.cpp
+   22 matiere.cpp
+   42 note.cpp
+  251 section.cpp
+ 1098 total
+Nombre de class : 7
+Nombre de méthodes : 56
+--------------------------------------------
+--------------------------------------------
+lundi 16 octobre 2017, 17:46:35 (UTC+0200)
+   84 application.h
+   24 bulletin.h
+   85 etudiant.h
+   33 evaluation.h
+   45 matiere.h
+   29 note.h
+  145 section.h
+  184 application.cpp
+   55 etudiant.cpp
+   93 evaluation.cpp
+    7 main.cpp
+   22 matiere.cpp
+   31 note.cpp
+  271 section.cpp
+ 1108 total
+Nombre de class : 7
+Nombre de méthodes : 55
+--------------------------------------------
+--------------------------------------------
+mardi 17 octobre 2017, 17:22:59 (UTC+0200)
+   84 application.h
+   30 bulletin.h
+   85 etudiant.h
+   33 evaluation.h
+   45 matiere.h
+   28 note.h
+  152 section.h
+  190 application.cpp
+   35 bulletin.cpp
+   55 etudiant.cpp
+   93 evaluation.cpp
+    7 main.cpp
+   22 matiere.cpp
+   32 note.cpp
+  328 section.cpp
+ 1219 total
+Nombre de class : 7
+Nombre de méthodes : 60
